@@ -16,5 +16,9 @@ This project demonstrates a real-time client-server chat application using Java 
 
 ##OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/25440dc1-d019-4a84-8cbb-dd249f9e4ac8)
+
+
+
 ![Image](https://github.com/user-attachments/assets/56da1fb4-70e2-487f-9cea-26565b1fd53c)
 
